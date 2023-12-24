@@ -1,0 +1,7 @@
+,Model,Score,Timestamp,Epic
+5,XGBoost,0.8056651758309217,2023-11-05 23:27:06.728220,Full dataset with Oversampling
+3,Random Forest,0.7765500306936771,2023-11-05 23:15:22.626461,Full dataset with Oversampling
+4,SVM,0.7341050600719109,2023-11-05 23:21:47.954468,Full dataset with Oversampling
+1,KNN,0.7125317898798562,2023-11-05 22:02:00.034556,Full dataset with Oversampling
+2,DecisionTree,0.6372007366482505,2023-11-05 22:02:12.114891,Full dataset with Oversampling
+0,LogisticRegression,0.4384811014645269,2023-11-05 21:55:56.277476,Full dataset with Oversampling
